@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "637a0fb5a99003c0a1e8397d",
+    "balance": 93651,
+    "age": 35,
+    "name": "Delgado Bentley",
+    "email": "delgadobentley@gallaxia.com",
+    "phone": "+1 (983) 536-2715"
+  },
+  {
+    "_id": "637a0fb5da24f93482939051",
+    "balance": 37600,
+    "age": 21,
+    "name": "Beck Alston",
+    "email": "beckalston@gallaxia.com",
+    "phone": "+1 (915) 411-3939"
+  },
+  {
+    "_id": "637a0fb5d00b9193145f2ffb",
+    "balance": 59487,
+    "age": 34,
+    "name": "Arline Bender",
+    "email": "arlinebender@gallaxia.com",
+    "phone": "+1 (880) 495-2552"
+  },
+  {
+    "_id": "637a0fb5f378ad6129e1d486",
+    "balance": 89767,
+    "age": 32,
+    "name": "Cummings Chen",
+    "email": "cummingschen@gallaxia.com",
+    "phone": "+1 (997) 453-2116"
+  },
+  {
+    "_id": "637a0fb520c5cb61bf321e12",
+    "balance": 53236,
+    "age": 32,
+    "name": "Hoffman Nieves",
+    "email": "hoffmannieves@gallaxia.com",
+    "phone": "+1 (933) 438-2172"
+  },
+  {
+    "_id": "637a0fb51b30e8f63b20f24a",
+    "balance": 77559,
+    "age": 34,
+    "name": "Howe Nixon",
+    "email": "howenixon@gallaxia.com",
+    "phone": "+1 (996) 526-3964"
+  },
+  {
+    "_id": "637a0fb55e327715f42eb8c3",
+    "balance": 65444,
+    "age": 31,
+    "name": "Osborn Hines",
+    "email": "osbornhines@gallaxia.com",
+    "phone": "+1 (962) 443-3999"
+  }
+]
